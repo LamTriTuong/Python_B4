@@ -1,4 +1,4 @@
-print("chuyen chuoi hoa thanh chu thuong va nguoc lai")
+print("Chuyen chuoi hoa thanh chu thuong va nguoc lai")
 def hoathuong(line):
     x = ""
     for i in line:
