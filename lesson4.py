@@ -1,4 +1,4 @@
-print("noi 2 ki tu dau va cuoi")
+print("Noi 2 ki tu dau va cuoi")
 def noichuoidaucuoi(Line):
     if len(Line)<2:
         return ""
