@@ -1,4 +1,4 @@
-print("in ra max min trong chuoi")
+print("In ra max min trong chuoi")
 def minmaxchuoi(line):
     max=min=line[0]
     for i in line:
