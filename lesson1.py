@@ -1,5 +1,5 @@
-print("thay ki tu giong ki tu dau thanh '$'")
-def thaythe(line):
+print("Thay ki tu giong ki tu dau thanh '$' ")
+def Thaythe(line):
     x=line[0]
     for i in range(1,len(line)):
         if line[i] == line[0]:
@@ -8,7 +8,7 @@ def thaythe(line):
             x+=line[i]
     return x
 line=input("Nhap chuoi: ")
-print(thaythe(line))
+print(Thaythe(line))
 
 
 
